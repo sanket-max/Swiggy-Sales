@@ -33,7 +33,7 @@ An interactive Power BI dashboard created to analyze Swiggy sales performance, c
 
 ## 📈 Dashboard Preview
 
-![Swiggy Sales Dashboard](Swiggy_Dashboard.png)
+![Swiggy Sales Dashboard](Screenshot 2026-09-06 184344.png)
 
 ## 💡 Project Learning
 
